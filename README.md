@@ -1,45 +1,30 @@
-# 👋 Hello, I'm Fatima Kalsoom
+# 👋 Hi, I'm Fatima Kalsoom
 
 **BCS Student | Developer | Problem Solver**
 
----
+## 🎓 About Me
+- 5th Semester BCS Student at FJWU
+- Passionate about programming and problem solving
+- Currently learning web development
+- Always eager to learn new technologies
 
-## 🚀 About Me
-- 🎓 5th Semester BCS Student at FJWU
-- 💻 Passionate about programming and problem solving
-- 🎯 Currently learning and building projects in multiple technologies
-- 🌱 Always eager to learn new technologies and improve my skills
+## 💻 Skills
+- **Languages:** C, C++, Java, SQL
+- **Web:** HTML, CSS
+- **Tools:** Git, GitHub, VS Code
 
-## 🛠️ Technical Skills
-- **Programming Languages:** C, C++, Java, SQL
-- **Web Technologies:** HTML, CSS, JavaScript
-- **Tools & Platforms:** Git, GitHub, VS Code
-- **Other Skills:** Problem Solving, Mathematics, Algorithms
+## 🚀 Projects
+### University Complaint System
+Java-based complaint management system
 
-## 💼 My Projects
+### Car Parking System  
+C++ parking management solution
 
-### 🏫 University Complaint Management System
-Java-based system for handling university complaints efficiently
+### Game Quiz App
+Interactive quiz application
 
-### 🚗 Car Parking System  
-C++ implementation for managing parking slots and payments
-
-### 🎮 Game Quiz App
-Interactive quiz application with multiple categories
-
-### 📝 Text Editor with HCI Principles
-Menu design applying Serial Position Effect psychology
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
-## 🔗 Connect With Me
-- 📧 Email: kalsoomfatima043@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐱 GitHub: [Your GitHub Profile]
-
----
-
-⭐ *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+## 📧 Contact
+- Email: kalsoomfatima043@gmail.com
+- GitHub: https://github.com/kalsoomfatima043-jpg
+--LinkedIn: https://www.linkedin.com/in/fatima-kalsoom-709321355?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B82imoChNTb2qIm3OwfZqsA%3D%3D
+*"Keep coding, keep learning!"*
