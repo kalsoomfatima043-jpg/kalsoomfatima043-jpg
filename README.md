@@ -26,5 +26,4 @@ Interactive quiz application
 ## 📧 Contact
 - 📧 Email: kalsoomfatima043@gmail.com
 - 💼 LinkedIn:https://www.linkedin.com/in/fatima-kalsoom-709321355?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B82imoChNTb2qIm3OwfZqsA%3D%3D
-- 🐱 GitHub:https://github.com/kalsoomfatima043-jpg
 "*
